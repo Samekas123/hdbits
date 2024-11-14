@@ -1,4 +1,4 @@
-# Welcome to HDBits.tv 
+# 🏠 Index
 
 Welcome to hdbits.tv!
 
@@ -8,3 +8,4 @@ Here you can find our links:
 
 [Website](https://hdbits.tv){:target="_blank"}
 
+[Emby Wiki](https://hdbits.wiki/Emby/)
