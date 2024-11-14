@@ -1,11 +1,14 @@
-# Emby Wiki
+# 📚 Emby Wiki
 
-## What is Emby
+## 📖 What is Emby?
 
-Emby is a streaming service that allows you to watch movies, TV shows, and other media on your computer, smartphone, tablet, or smart TV. It's like having your own personal Netflix or Amazon Prime Video, but with content curated by someone you know and trust instead of a faceless corporation.
+Emby is a streaming service that lets you enjoy movies, TV shows, and other media on your computer, smartphone, tablet, or smart TV. Think of it as a personal Netflix or Amazon Prime Video with content curated by someone you know and trust.
 
-## 🚧Emby Limits
-**Be sure to read this wiki carefully!**
+---
+
+## 🚧 Emby Usage Limits
+
+**Please read this wiki carefully to avoid limitations!**
 
 ``` py
 For Android devices, you must sideload the app because Emby has a limit of 75 devices.
@@ -55,34 +58,42 @@ To avoid issues, **please sideload** the apps listed here
 
 ---
 
-### 🤖 Android Devices
+### 🤖 Android Mobile Devices
 
 - **IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
 - **Sideload Guide:** [How to Sideload an APK](https://www.digitaltrends.com/mobile/how-to-sideload-an-apk/){:target="_blank"}
 - **App APK**  
-  - App APK (short URL): [https://t.ly/sb5uT](https://t.ly/sb5uT){:target="_blank"}
-  - [Mirror 1](https://tinyurl.com/mrxcsy2p){:target="_blank"}
-  - [Mirror 2](https://tinyurl.com/337yzp6f){:target="_blank"}
-  - [Mirror 3](https://tinyurl.com/4sup697j){:target="_blank"}
+  - App APK (short URL): [t.ly/sb5uT](https://t.ly/sb5uT){:target="_blank"}
+  - [tinyurl.com/mrxcsy2p](https://tinyurl.com/mrxcsy2p){:target="_blank"}
+  - [tinyurl.com/337yzp6f](https://tinyurl.com/337yzp6f){:target="_blank"}
+  - [tinyurl.com/4sup697j](https://tinyurl.com/4sup697j){:target="_blank"}
 
 ---
 
 ### 📺 Android TV / Nvidia Shield
 
-- **IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
-- **Sideload Guide:**
-  - 1. Settings -> System -> About -> Android TV OS build -> Press it 10-15 times
-  - 2. Settings -> Settings -> Privacy -> Security & Restrictions -> Allow Apps from Unknown Sources
-  - 3. Download the app “Downloader by AFTVnews”
-  - 4. Open "Downloader by AFTVnews" and insert the Code: **947240**
-  - 5. Follow the prompts
+``` py
+IMPORTANT:To avoid device limitations, please sideload the app using the guide below!
+``` 
+**Sideload Guide:**
 
-- **Downloader by AFTVnews Code:** 947240
-- **App APK**  
-  - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q){:target="_blank"}
-  - [Mirror 1](https://tinyurl.com/5fpfw7bv){:target="_blank"}
-  - [Mirror 2](https://tinyurl.com/3nd4hf5n){:target="_blank"}
-  - [Mirror 3](https://tinyurl.com/3yjyvxve){:target="_blank"}
+1. Settings -> System -> About -> Android TV OS build -> Press it 10-15 times
+2. Settings -> Settings -> Privacy -> Security & Restrictions -> Allow Apps from Unknown Sources
+3. Download the app “Downloader by AFTVnews”
+4. Open "Downloader by AFTVnews" and insert the Code: **947240**
+5. Follow the prompts
+
+>**Downloader by AFTVnews Code:** 947240
+
+Alternative Method: Manual APK Download/Install
+
+App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q){:target="_blank"}
+
+Mirror 1: [tinyurl.com/5fpfw7bv](https://tinyurl.com/5fpfw7bv){:target="_blank"}
+
+Mirror 2: [tinyurl.com/3nd4hf5n](https://tinyurl.com/3nd4hf5n){:target="_blank"}
+
+Mirror 3: [tinyurl.com/3nd4hf5n](https://tinyurl.com/3yjyvxve){:target="_blank"}
 
 ---
 
@@ -126,6 +137,8 @@ Recommended Settings:
 - **Settings -> Playback -> Video Quality**
   - **Internet quality:** Set to 4K-200Mbps 
   - **Maximum Allowed Video Transcoding Resolution:** 4K
+
+![4K Settings](https://i.ibb.co/4MGC5JF/Screenshot-27.png/){ loading=lazy }
 
 Still facing issues?
 
