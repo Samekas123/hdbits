@@ -42,10 +42,14 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 
 To avoid issues, **please sideload** the apps listed here 
 ## 👨🏽‍💻Devices/Apps to use
-
+- **Do not use Emby Connect.**
+- **Enable HTTPS on all apps or use port 443 (SSL).**
 ### 📺 Apple TV
 - **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Youtube Tutorial Apple TV 4K](https://youtu.be/js9DkFN_85s){:target="_blank"}
-- **Infuse** - [Paid/Best](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Youtube Tutorial Apple TV 4K](https://youtu.be/m_a6ZP03bOY){:target="_blank"}
+- **Infuse** - [Paid/Best](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Youtube Tutorial Apple TV 4K](https://youtu.be/m_a6ZP03bOY){:target="_blank"} 
+``` py
+Set Library Mode to OFF
+``` 
 - **VidHub** - [Paid](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164){:target="_blank"} 
 
 
@@ -54,6 +58,9 @@ To avoid issues, **please sideload** the apps listed here
 ### 📱 iOS (iPhone/iPad)
 - **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [YouTube Tutorial iPhone/iPad](https://youtu.be/MeMP1TSyvHY){:target="_blank"}
 - **Infuse** - [Paid/Best](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Youtube Tutorial iPhone/iPad](https://youtu.be/Y5AS3JTVH1w){:target="_blank"}
+``` py
+Set Library Mode to OFF
+``` 
 - **VidHub** - [Paid](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164){:target="_blank"}
 
 
