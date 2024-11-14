@@ -28,8 +28,8 @@ theme:
       accent: lime
 
 plugins:
-  - social
-  - search
+  - material/social
+  - material/search
 
 extra:
   social:
