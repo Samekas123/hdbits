@@ -27,10 +27,6 @@ theme:
       primary: teal
       accent: lime
 
-plugins:
-  - material/social
-  - material/search
-
 extra:
   social:
     - icon: fontawesome/brands/mastodon
