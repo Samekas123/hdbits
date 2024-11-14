@@ -5,7 +5,7 @@
 Emby is a streaming service that allows you to watch movies, TV shows, and other media on your computer, smartphone, tablet, or smart TV. It's like having your own personal Netflix or Amazon Prime Video, but with content curated by someone you know and trust instead of a faceless corporation.
 
 ## 🚧Emby Limits
-**Please read this wiki carefully!**
+**Please read this wiki carefully**
 
 ``` py
 For android devices you must sideload the APP because Emby has a limit of 75 devices.
