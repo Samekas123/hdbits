@@ -17,6 +17,8 @@ For Android devices, you must sideload the app because Emby has a limit of 75 de
 ``` py
 Do not use Emby Theater or the official Emby apps for Android and Apple!
 ```
+
+---
 ### ❗Login Limits
 
 - Each subscription comes with a specific login limit.
@@ -24,7 +26,9 @@ Do not use Emby Theater or the official Emby apps for Android and Apple!
 - The login limit resets if a device remains unused for approximately one week.
 - Track your logins to avoid reaching the limit!
 
-Open a [support ticket](https://discord.gg/hdbits){:target="_blank"} if you need additional devices or to remove/reset devices.
+Open a [device emby ticket](https://discord.gg/hdbits){:target="_blank"} if you need additional devices or to remove/reset devices.
+
+---
 
 ### 🛑 Device Limits
 
@@ -40,10 +44,18 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 - Android TV and Fire TV
 - Any device that downloads content
 
-To avoid issues, **please sideload** the apps listed here 
+Open a [device emby ticket](https://discord.gg/hdbits){:target="_blank"} if you need additional devices or to remove/reset devices.
+
+---
+
+
+**To avoid issues, please sideload the apps listed here**
 ## 👨🏽‍💻Devices/Apps to use
 - **Do not use Emby Connect.**
 - **Enable HTTPS on all apps or use port 443 (SSL).**
+
+---
+
 ### 📺 Apple TV
 - **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Youtube Tutorial Apple TV 4K](https://youtu.be/js9DkFN_85s){:target="_blank"}
 - **Infuse** - [Paid/Best](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Youtube Tutorial Apple TV 4K](https://youtu.be/m_a6ZP03bOY){:target="_blank"} 
@@ -76,6 +88,22 @@ Set Library Mode to OFF
   - [tinyurl.com/337yzp6f](https://tinyurl.com/337yzp6f){:target="_blank"}
   - [tinyurl.com/4sup697j](https://tinyurl.com/4sup697j){:target="_blank"}
 
+Select Skip at the bottom of the screen.
+
+Choose the manual connection option to link to the server.
+
+Enter your username manually.
+
+>Host: Refer to your email 
+
+>Port: Clear any text here and leave it empty or type the correct port 443.
+
+>Username: Refer to your email
+
+>Password: Refer to your email 
+
+**Android 10 Phone** -> [YouTube Tutorial](https://youtu.be/EzMPD88QX18){:target="_blank"} |
+**Android 14 Phone** -> [YouTube Tutorial](https://youtu.be/w17Ut1khJG8){:target="_blank"}
 ---
 
 ### 📺 Android TV / Nvidia Shield
@@ -103,6 +131,20 @@ Mirror 2: [tinyurl.com/3nd4hf5n](https://tinyurl.com/3nd4hf5n){:target="_blank"}
 
 Mirror 3: [tinyurl.com/3nd4hf5n](https://tinyurl.com/3yjyvxve){:target="_blank"}
 
+Select Skip at the bottom of the screen.
+
+Choose the manual connection option to link to the server.
+
+Enter your username manually.
+
+>Host: Refer to your email 
+
+>Port: Clear any text here and leave it empty or type the correct port 443.
+
+>Username: Refer to your email
+
+>Password: Refer to your email 
+
 ---
 
 ### 📺 Amazon Fire Stick / Fire TV
@@ -116,6 +158,22 @@ Mirror 3: [tinyurl.com/3nd4hf5n](https://tinyurl.com/3yjyvxve){:target="_blank"}
   - [Mirror 1](https://tinyurl.com/5y869n2c){:target="_blank"}
   - [Mirror 2](https://tinyurl.com/mry287f5){:target="_blank"}
 
+  Select Skip at the bottom of the screen.
+
+Choose the manual connection option to link to the server.
+
+Enter your username manually.
+
+>Host: Refer to your email 
+
+>Port: Clear any text here and leave it empty or type the correct port 443.
+
+>Username: Refer to your email
+
+>Password: Refer to your email 
+
+---
+
 ### 💻 PC Windows / Linux
 
 - **Easiest Method:** Use the **Web Player** by clicking on the server URL sent to your email. No installation required!
@@ -128,6 +186,8 @@ Mirror 3: [tinyurl.com/3nd4hf5n](https://tinyurl.com/3yjyvxve){:target="_blank"}
 - **Recommended Apps:** Use **SenPlayer** or **Infuse** for optimal streaming.
 - **Alternative:** You can also use the **Web Player** by clicking on the server URL sent to your email. No installation required!
 - **IMPORTANT:** Please **do not use Emby Theater** due to server license limits, which may restrict access.
+
+---
 
 ## ⚙️4K Settings/Direct Play
 
@@ -159,6 +219,8 @@ Adjust Advanced Video Settings
   - Try enabling **DTS (DCA)**
   - Try enabling **TrueHD**
 
+---  
+
 ## 💡 Tips
 
 ### 🏠︎ Tune your "Home"
@@ -167,6 +229,8 @@ Tune your "Home" website to get faster loadings:
 
 - **Settings -> Home Screen Layout**
   - Deselect libraries you don't need
+
+---  
 
 ### 🔎 Search Tips  
 
@@ -186,6 +250,8 @@ Example:
 - Go to search (top right).
 - And search `The Godfather`.
   - This will show you **all movies**  which include `The Godfather` **in this specific library only (in this example Movies - 4K)**.
+
+---
 
 ### 🔄 Trakt Sync
 
