@@ -123,6 +123,8 @@ IMPORTANT:To avoid device limitations, please sideload the app using the guide b
 
 >**Downloader by AFTVnews Code:** 947240
 
+---
+
 Alternative Method: Manual APK Download/Install
 
 App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q){:target="_blank"}
@@ -133,46 +135,59 @@ Mirror 2: [tinyurl.com/3nd4hf5n](https://tinyurl.com/3nd4hf5n){:target="_blank"}
 
 Mirror 3: [tinyurl.com/3nd4hf5n](https://tinyurl.com/3yjyvxve){:target="_blank"}
 
-Select Skip at the bottom of the screen.
+---
 
-Choose the manual connection option to link to the server.
+1. Select Skip at the bottom of the screen.
 
-Enter your username manually.
+2. Choose the manual connection option to link to the server.
 
->Host: Refer to your email 
+3. Enter your username manually.
 
->Port: Clear any text here and leave it empty or type the correct port 443.
+4. Host: Refer to your email 
 
->Username: Refer to your email
+5. Port: Clear any text here and leave it empty or type the correct port 443.
 
->Password: Refer to your email 
+6. Username: Refer to your email
+
+7. Password: Refer to your email 
+
+**In the Emby app playback settings, ensure that "Enable Refresh Rate Switching" and "Prefer Exact Refresh Rate" are enabled for a smoother viewing experience.**
+
+Other settings, such as **"Allow Dolby TrueHD Pass-thru,"** **"Allow DTS Pass-through,"** **"Allow DTS-HD Pass-through,"** and **"Allow Direct Play of TS Files,"** **should be enabled**. However, their use depends on **your streaming setup**. **Try enabling them to see if they work.**
 
 ---
 
 ### 📺 Amazon Fire Stick / Fire TV
 
-- **IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
-- **Sideload Guide:** [XDA Developers Sideload Guide](https://www.xda-developers.com/how-sideload-apps-amazon-fire-tv/){:target="_blank"} or look above at **Android TV / Nvidia Shield**
+**IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
 
-- **Downloader by AFTVnews Code:** 947240
-- **App APK**  
-  - App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q){:target="_blank"}
-  - [Mirror 1](https://tinyurl.com/5y869n2c){:target="_blank"}
-  - [Mirror 2](https://tinyurl.com/mry287f5){:target="_blank"}
+**Sideload Guide:** [XDA Developers Sideload Guide](https://www.xda-developers.com/how-sideload-apps-amazon-fire-tv/){:target="_blank"} or look above at **Android TV / Nvidia Shield**
 
-  Select Skip at the bottom of the screen.
+**Downloader by AFTVnews Code:** 947240
 
-Choose the manual connection option to link to the server.
+---
 
-Enter your username manually.
+**Manual download app apk:**  
 
->Host: Refer to your email 
+App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q){:target="_blank"}
 
->Port: Clear any text here and leave it empty or type the correct port 443.
+[Mirror 1](https://tinyurl.com/5y869n2c){:target="_blank"}
 
->Username: Refer to your email
+[Mirror 2](https://tinyurl.com/mry287f5){:target="_blank"}
 
->Password: Refer to your email 
+1. Select Skip at the bottom of the screen.
+
+2. Choose the manual connection option to link to the server.
+
+3. Enter your username manually.
+
+4. Host: Refer to your email 
+
+5. Port: Clear any text here and leave it empty or type the correct port 443.
+
+6. Username: Refer to your email
+
+7. Password: Refer to your email 
 
 ---
 
