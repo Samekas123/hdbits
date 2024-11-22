@@ -8,7 +8,8 @@ Emby is a streaming service that lets you enjoy movies, TV shows, and other medi
 
 ## 🚧 Emby Usage Limits
 
-**Please read this wiki carefully to avoid limitations!**
+!!! Note
+    **Please read this wiki carefully to avoid limitations!**
 
 ``` py
 For Android devices, you must sideload the app because Emby has a limit of 75 devices.
@@ -26,7 +27,8 @@ Do not use Emby Theater or the official Emby apps for Android and Apple!
 - The login limit resets if a device remains unused for approximately one week.
 - Track your logins to avoid reaching the limit!
 
-Open a [device emby ticket](https://discord.gg/hdbits){:target="_blank"} if you need additional devices or to remove/reset devices.
+!!! Note
+    Open a [device emby ticket](https://discord.gg/hdbits){:target="_blank"} if you need additional devices or to remove/reset devices.
 
 ---
 
@@ -44,7 +46,8 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 - Android TV and Fire TV
 - Any device that downloads content
 
-Open a [device emby ticket](https://discord.gg/hdbits){:target="_blank"} if you need additional devices or to remove/reset devices.
+!!! Note
+    Open a [device emby ticket](https://discord.gg/hdbits){:target="_blank"} if you need additional devices or to remove/reset devices.
 
 ---
 
@@ -80,7 +83,9 @@ Set Library Mode to OFF
 
 ### 🤖 Android Mobile Devices
 
-- **IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
+!!! Note
+    **IMPORTANT: To avoid device limitations, please sideload the app using the guide below!**
+
 - **Sideload Guide:** [How to Sideload an APK](https://www.digitaltrends.com/mobile/how-to-sideload-an-apk/){:target="_blank"}
 - **App APK**  
   - App APK (short URL): [t.ly/sb5uT](https://t.ly/sb5uT){:target="_blank"}
@@ -108,9 +113,9 @@ Enter your username manually.
 
 ### 📺 Android TV / Nvidia Shield
 
-``` py
-IMPORTANT:To avoid device limitations, please sideload the app using the guide below!
-``` 
+!!! Note
+    **IMPORTANT: To avoid device limitations, please sideload the app using the guide below!**
+
 **Sideload Guide:**
 
 **Video Tutorial** -> [Nvidia Shield TV Sideload YouTube Tutorial](https://youtu.be/ie9hg2daZhU){:target="_blank"}
@@ -159,7 +164,8 @@ Other settings, such as **"Allow Dolby TrueHD Pass-thru,"** **"Allow DTS Pass-th
 
 ### 📺 Amazon Fire Stick / Fire TV
 
-**IMPORTANT:** To **avoid device limitations**, please **sideload the app** using the guide below!
+!!! Note
+    **IMPORTANT: To avoid device limitations, please sideload the app using the guide below!**
 
 **Sideload Guide:** [XDA Developers Sideload Guide](https://www.xda-developers.com/how-sideload-apps-amazon-fire-tv/){:target="_blank"} or look above at **Android TV / Nvidia Shield**
 
