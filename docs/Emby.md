@@ -113,6 +113,8 @@ IMPORTANT:To avoid device limitations, please sideload the app using the guide b
 ``` 
 **Sideload Guide:**
 
+**Video Tutorial** -> [Nvidia Shield TV Sideload YouTube Tutorial](https://youtu.be/ie9hg2daZhU){:target="_blank"}
+
 1. Settings -> System -> About -> Android TV OS build -> Press it 10-15 times
 2. Settings -> Settings -> Privacy -> Security & Restrictions -> Allow Apps from Unknown Sources
 3. Download the app “Downloader by AFTVnews”
@@ -201,12 +203,21 @@ For a smoother 4K experience, consider using a dedicated playback device like th
 
 **Important:** Avoid using **PGSSUB** subtitles with 4K playback!
 
-Recommended Settings:
-- **Settings -> Playback -> Video Quality**
-  - **Internet quality:** Set to 4K-200Mbps 
-  - **Maximum Allowed Video Transcoding Resolution:** 4K
+**Recommended Settings:**
+
+- Settings -> Playback -> Video Quality
+
+- Internet quality: Set to **4K-200Mbps** or set max **streaming bitrate to maximum!**
+
+- Maximum Allowed Video Transcoding Resolution: 4K
+
+For web app/generic android boxes:
 
 ![4K Settings](https://i.ibb.co/4MGC5JF/Screenshot-27.png/){ loading=lazy }
+
+For the Nvidia Shield TV:
+
+![4K Settings Shield](https://i.ibb.co/Ph7zMjt/Screenshot-14.png){ loading=lazy }
 
 Still facing issues?
 
