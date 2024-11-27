@@ -60,8 +60,8 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 ---
 
 ### 📺 Apple TV
-- **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Youtube Tutorial Apple TV 4K](https://youtu.be/js9DkFN_85s){:target="_blank"}
-- **Infuse** - [Paid/Best](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Youtube Tutorial Apple TV 4K](https://youtu.be/m_a6ZP03bOY){:target="_blank"} 
+- **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Video Tutorial Apple TV 4K](https://youtu.be/js9DkFN_85s){:target="_blank"}
+- **Infuse** - [Paid/Best](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Video Tutorial Apple TV 4K](https://youtu.be/m_a6ZP03bOY){:target="_blank"} 
 ``` py
 Set Library Mode to OFF
 ``` 
@@ -71,8 +71,8 @@ Set Library Mode to OFF
 ---
 
 ### 📱 iOS (iPhone/iPad)
-- **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [YouTube Tutorial iPhone/iPad](https://youtu.be/MeMP1TSyvHY){:target="_blank"}
-- **Infuse** - [Paid/Best](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Youtube Tutorial iPhone/iPad](https://youtu.be/Y5AS3JTVH1w){:target="_blank"}
+- **SenPlayer** - [Free](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/MeMP1TSyvHY){:target="_blank"}
+- **Infuse** - [Paid/Best](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/Y5AS3JTVH1w){:target="_blank"}
 ``` py
 Set Library Mode to OFF
 ``` 
@@ -107,8 +107,8 @@ Enter your username manually.
 
 >Password: Refer to your email 
 
-**Android 10 Phone** -> [YouTube Tutorial](https://youtu.be/EzMPD88QX18){:target="_blank"} |
-**Android 14 Phone** -> [YouTube Tutorial](https://youtu.be/w17Ut1khJG8){:target="_blank"}
+**Android 10 Phone** -> [Video Tutorial](https://youtu.be/EzMPD88QX18){:target="_blank"} |
+**Android 14 Phone** -> [Video Tutorial](https://youtu.be/w17Ut1khJG8){:target="_blank"}
 ---
 
 ### 📺 Android TV / Nvidia Shield
@@ -118,7 +118,7 @@ Enter your username manually.
 
 **Sideload Guide:**
 
-**Video Tutorial** -> [Nvidia Shield TV Sideload YouTube Tutorial](https://youtu.be/ie9hg2daZhU){:target="_blank"}
+**Video Tutorial** -> [Nvidia Shield TV Sideload Video Tutorial](https://youtu.be/ie9hg2daZhU){:target="_blank"}
 
 1. Settings -> System -> About -> Android TV OS build -> Press it 10-15 times
 2. Settings -> Settings -> Privacy -> Security & Restrictions -> Allow Apps from Unknown Sources
@@ -166,6 +166,8 @@ Other settings, such as **"Allow Dolby TrueHD Pass-thru,"** **"Allow DTS Pass-th
 
 !!! Note
     **IMPORTANT: To avoid device limitations, please sideload the app using the guide below!**
+
+**Video Tutorial** -> [Fire TV Sideload Video Tutorial](https://youtu.be/ie9hg2daZhU){:target="_blank"}    
 
 **Sideload Guide:** [XDA Developers Sideload Guide](https://www.xda-developers.com/how-sideload-apps-amazon-fire-tv/){:target="_blank"} or look above at **Android TV / Nvidia Shield**
 
