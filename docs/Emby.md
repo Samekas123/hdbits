@@ -40,11 +40,11 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 
 **Devices That Count Towards the Limit:**
 
-- Official Emby apps (iOS and Android)
-- Emby Theater for Linux and MacOS **(use the web player)**
-- Windows (both Store and Desktop versions of Emby Theater) **(use the web player)**
-- Android TV and Fire TV
-- Any device that downloads content
+- Official Emby apps (iOS and Android).
+- Emby Theater for Linux and MacOS **(use the web player).**
+- Windows (both Store and Desktop versions of Emby Theater) **(use the web player).**
+- Android TV and Fire TV.
+- Any device that downloads content.
 
 !!! Note
     Open a [device emby ticket](https://discord.gg/hdbits){:target="_blank"} if you need additional devices or to remove/reset devices.
@@ -52,12 +52,12 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 ---
 
 
-**To avoid issues, please sideload the apps listed here**
+**To avoid issues, please sideload the apps listed here.**
 ## 👨🏽‍💻Devices/Apps to use
 - **Do not use Emby Connect.**
 - **Enable HTTPS on all apps or use port 443 (SSL).**
 !!! Recommended
-    **Apple TV 4K (best for HDR/HDR10+), Fire TV Cube 3rd Gen (best for DV), Nvidia Shield TV (up to DV profile 5)**
+    **Apple TV 4K (best for HDR/HDR10+), Fire TV Cube 3rd Gen (best for DV), Nvidia Shield TV (up to DV profile 5).**
 ---
 
 ### 📺 Apple TV
@@ -100,13 +100,13 @@ Choose the manual connection option to link to the server.
 
 Enter your username manually.
 
->Host: Refer to your email 
+>Host: Refer to your email. 
 
 >Port: Clear any text here and leave it empty or type the correct port 443.
 
->Username: Refer to your email
+>Username: Refer to your email.
 
->Password: Refer to your email 
+>Password: Refer to your email. 
 
 **Android 10 Phone** -> [Video Tutorial](https://youtu.be/EzMPD88QX18){:target="_blank"} |
 **Android 14 Phone** -> [Video Tutorial](https://youtu.be/w17Ut1khJG8){:target="_blank"}
@@ -121,11 +121,11 @@ Enter your username manually.
 
 **Video Tutorial** -> [Nvidia Shield TV Sideload Video Tutorial](https://youtu.be/ie9hg2daZhU){:target="_blank"}
 
-1. Settings -> System -> About -> Android TV OS build -> Press it 10-15 times
-2. Settings -> Settings -> Privacy -> Security & Restrictions -> Allow Apps from Unknown Sources
-3. Download the app “Downloader by AFTVnews”
-4. Open "Downloader by AFTVnews" and insert the Code: **947240**
-5. Follow the prompts
+1. Settings -> System -> About -> Android TV OS build -> Press it 10-15 times.
+2. Settings -> Settings -> Privacy -> Security & Restrictions -> Allow Apps from Unknown Sources.
+3. Download the app “Downloader by AFTVnews”.
+4. Open "Downloader by AFTVnews" and insert the Code: **947240**.
+5. Follow the prompts.
 
 >**Downloader by AFTVnews Code:** 947240
 
@@ -149,13 +149,13 @@ Mirror 3: [tinyurl.com/3nd4hf5n](https://tinyurl.com/3yjyvxve){:target="_blank"}
 
 3. Enter your username manually.
 
-4. Host: Refer to your email 
+4. Host: Refer to your email. 
 
 5. Port: Clear any text here and leave it empty or type the correct port 443.
 
-6. Username: Refer to your email
+6. Username: Refer to your email.
 
-7. Password: Refer to your email 
+7. Password: Refer to your email.
 
 **In the Emby app playback settings, ensure that "Enable Refresh Rate Switching" and "Prefer Exact Refresh Rate" are enabled for a smoother viewing experience.**
 
@@ -190,13 +190,13 @@ App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q){:target="_blank"}
 
 3. Enter your username manually.
 
-4. Host: Refer to your email 
+4. Host: Refer to your email. 
 
 5. Port: Clear any text here and leave it empty or type the correct port 443.
 
-6. Username: Refer to your email
+6. Username: Refer to your email.
 
-7. Password: Refer to your email 
+7. Password: Refer to your email. 
 
 ---
 
@@ -218,22 +218,22 @@ App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q){:target="_blank"}
 ## ⚙️4K Settings/Direct Play
 
 ``` py
-TV-based apps often struggle to deliver optimal 4K playback because they may lack support for all codecs and audio formats
+TV-based apps often struggle to deliver optimal 4K playback because they may lack support for all codecs and audio formats.
 ```
 
 ``` py
-For a smoother 4K experience, consider using a dedicated playback device like the Apple TV 4K
+For a smoother 4K experience, consider using a dedicated playback device like the Apple TV 4K, Fire TV Cube, Nvidia Shield.
 ```
 
 **Important:** Avoid using **PGSSUB** subtitles with 4K playback!
 
 **Recommended Settings:**
 
-- Settings -> Playback -> Video Quality
+- Settings -> Playback -> Video Quality.
 
 - Internet quality: Set to **4K-200Mbps** or set max **streaming bitrate to maximum!**
 
-- Maximum Allowed Video Transcoding Resolution: 4K
+- Maximum Allowed Video Transcoding Resolution: 4K.
 
 For web app/generic android boxes:
 
@@ -245,14 +245,14 @@ For the Nvidia Shield TV:
 
 Still facing issues?
 
-**Disable subtitles**
-- **Settings -> Subtitles**
-  - **Subtitle mode:** None
+**Disable subtitles.**
+- **Settings -> Subtitles.**
+  - **Subtitle mode:** None.
 
 Adjust Advanced Video Settings
-- **Settings -> Playback -> Video Advanced**
-  - Try enabling **DTS (DCA)**
-  - Try enabling **TrueHD**
+- **Settings -> Playback -> Video Advanced**.
+  - Try enabling **DTS (DCA)**.
+  - Try enabling **TrueHD**.
 
 ---  
 
@@ -262,31 +262,10 @@ Adjust Advanced Video Settings
 
 Tune your "Home" website to get faster loadings:
 
-- **Settings -> Home Screen Layout**
-  - Deselect libraries you don't need
+- **Settings -> Home Screen Layout**.
+  - Deselect libraries you don't need.
 
 ---  
-
-### 🔎 Search Tips  
-
-You have the possibility to search in specific libraries only. (available on web based apps and website)
-
-Example:
-- You want to find the movie `The Godfather` in **4K only**.
- 
-**Option 1:**
-- Press on **"Home"**.
-- Go to search (top right).
-- And search `The Godfather`.
-  - This will show you all **movies and shows** which include `The Godfather`, **in 1080p and 4K**.
-
-**Option 2:**
-- Go to the library **Movies - 4K**.
-- Go to search (top right).
-- And search `The Godfather`.
-  - This will show you **all movies**  which include `The Godfather` **in this specific library only (in this example Movies - 4K)**.
-
----
 
 ### 🔄 Trakt Sync
 
