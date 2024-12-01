@@ -56,7 +56,8 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 ## 👨🏽‍💻Devices/Apps to use
 - **Do not use Emby Connect.**
 - **Enable HTTPS on all apps or use port 443 (SSL).**
-
+!!! Recommended
+    **Apple TV 4K (best for HDR/HDR10+), Fire TV Cube 3rd Gen (best for DV), Nvidia Shield TV (up to DV profile 5)**
 ---
 
 ### 📺 Apple TV
