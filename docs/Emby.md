@@ -169,7 +169,7 @@ Other settings, such as **"Allow Dolby TrueHD Pass-thru,"** **"Allow DTS Pass-th
 !!! Note
     **IMPORTANT: To avoid device limitations, please sideload the app using the guide below!**
 
-**Video Tutorial** -> [Fire TV Sideload Video Tutorial](https://youtu.be/ie9hg2daZhU){:target="_blank"}    
+**Video Tutorial** -> [Fire TV Sideload Video Tutorial](https://youtu.be/b9MWftzxfEE){:target="_blank"}    
 
 **Sideload Guide:** [XDA Developers Sideload Guide](https://www.xda-developers.com/how-sideload-apps-amazon-fire-tv/){:target="_blank"} or look above at **Android TV / Nvidia Shield**
 
