@@ -58,7 +58,7 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 - **Do not use Emby Connect.**
 - **Enable HTTPS on all apps or use port 443 (SSL).**
 !!! Recommended
-    **Apple TV 4K (Best HDR/HDR10+ Fastest Player + NO Dolby Atmos, DTS:X Passthrough + Up to DV Profile 5 (7 with SenPlayer)), Fire TV Cube 3rd Gen (Best for Dolby Atmos + Dolby Vision + ALL DV Profiles), Nvidia Shield TV (Dolby Atmos, DTS:X Passthrough + Up to DV Profile 5).**
+    **Apple TV 4K** (Best HDR/HDR10+ NO Dolby Atmos, DTS:X Passthrough), **Fire TV Cube 3rd Gen** (Good DV Player)
 ---
 
 ### 📺 Apple TV
@@ -223,7 +223,7 @@ TV-based apps often struggle to deliver optimal 4K playback because they may lac
 ```
 
 ``` py
-For a smoother 4K experience, consider using a dedicated playback device like the Apple TV 4K, Fire TV Cube, Nvidia Shield.
+For a smoother 4K experience, consider using a dedicated playback device like the Apple TV 4K or Fire TV Cube.
 ```
 
 **Important:** Avoid using **PGSSUB** subtitles with 4K playback!
