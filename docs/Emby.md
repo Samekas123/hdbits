@@ -32,8 +32,6 @@ Do not use Emby Theater or the official Emby apps for Android and Apple!
 
 ---
 
-![Remove Device](https://i.ibb.co/NY2rMZp/Screenshot-9.png){ loading=lazy }
-
 ### 🛑 Device Limits
 
 Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of **75 devices** per account.
@@ -60,7 +58,7 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 - **Do not use Emby Connect.**
 - **Enable HTTPS on all apps or use port 443 (SSL).**
 !!! Recommended
-    **Apple TV 4K (best for HDR/HDR10+), Fire TV Cube 3rd Gen (best for DV), Nvidia Shield TV (up to DV profile 5).**
+    **Apple TV 4K (Best HDR/HDR10+ Fastest Player + NO Dolby Atmos, DTS:X Passthrough + Up to DV Profile 5 (7 with SenPlayer)), Fire TV Cube 3rd Gen (Best for Dolby Atmos + Dolby Vision + ALL DV Profiles), Nvidia Shield TV (Dolby Atmos, DTS:X Passthrough + Up to DV Profile 5).**
 ---
 
 ### 📺 Apple TV
