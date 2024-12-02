@@ -28,9 +28,11 @@ Do not use Emby Theater or the official Emby apps for Android and Apple!
 - Track your logins to avoid reaching the limit!
 
 !!! Note
-    Open a [device emby ticket](https://discord.gg/hdbits){:target="_blank"} if you need additional devices or to remove/reset devices.
+    You can remove a device(s) by clicking: [My Account](https://hdbits.tv/my-account){:target="_blank"} (Login with your [hdbits.tv](https://hdbits.tv/){:target="_blank"} account).
 
 ---
+
+![Remove Device](https://i.ibb.co/NY2rMZp/Screenshot-9.png){ loading=lazy }
 
 ### 🛑 Device Limits
 
@@ -47,10 +49,11 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 - Any device that downloads content.
 
 !!! Note
-    Open a [device emby ticket](https://discord.gg/hdbits){:target="_blank"} if you need additional devices or to remove/reset devices.
+    You can remove a device(s) by clicking: [My Account](https://hdbits.tv/my-account){:target="_blank"} (Login with your [hdbits.tv](https://hdbits.tv/){:target="_blank"} account).
 
 ---
 
+![Remove Device](https://i.ibb.co/NY2rMZp/Screenshot-9.png){ loading=lazy }
 
 **To avoid issues, please sideload the apps listed here.**
 ## 👨🏽‍💻Devices/Apps to use
