@@ -267,14 +267,3 @@ Tune your "Home" website to get faster loadings:
   - Deselect libraries you don't need.
 
 ---  
-
-### 🔄 Trakt Sync
-
-Emby syncs with Trakt once a day.
-
-1. Login to Emby.
-2. Go to settings.
-4. Select "Trakt" on the side.
-5. Press "Get PIN" and import your PIN.
-6. Adjust settings as shown below.
-7. Press **Save**.
