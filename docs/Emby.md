@@ -68,6 +68,7 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 Set Library Mode to OFF
 ``` 
 - **VidHub** - [Paid](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164){:target="_blank"} 
+- **Conflux** - [Paid](https://apps.apple.com/us/app/conflux-video-player/id6450330892){:target="_blank"} 
 
 
 ---
@@ -79,7 +80,7 @@ Set Library Mode to OFF
 Set Library Mode to OFF
 ``` 
 - **VidHub** - [Paid](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164){:target="_blank"}
-
+- **Conflux** - [Paid](https://apps.apple.com/us/app/conflux-video-player/id6450330892){:target="_blank"} 
 
 ---
 
@@ -210,7 +211,7 @@ App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q){:target="_blank"}
 
 ### 🍏 macOS
 
-- **Recommended Apps:** Use **SenPlayer** or **Infuse** for optimal streaming.
+- **Recommended Apps:** Use **SenPlayer**, **Infuse** or **Conflux** for optimal streaming.
 - **Alternative:** You can also use the **Web Player** by clicking on the server URL sent to your email. No installation required!
 - **IMPORTANT:** Please **do not use Emby Theater** due to server license limits, which may restrict access.
 
