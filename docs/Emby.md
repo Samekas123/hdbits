@@ -267,4 +267,17 @@ Tune your "Home" website to get faster loadings:
 - **Settings -> Home Screen Layout**.
   - Deselect libraries you don't need.
 
+
+### 🔄 Alternative Emby Clients for Android
+
+[Yamby Emby Official Telegram](https://t.me/yamby_release){:target="_blank"} (Yamby is much faster at searching, and if you don't care about the TV feature or extra subtitles, it's a great alternative to the Emby sideload.)
+
+- **64-bit**: Downloader by AFTVnews code: **546960**
+- **32-bit**: Downloader by AFTVnews code: **693760**
+
+- For the Fire TV Stick 4K, use the 32-bit version. For other devices, start with the 64-bit version. If the installation fails, try the 32-bit version.
+- There is a guide on how to add the Emby Server, but it’s in Chinese. You can use a web translator to access it: [Yamby Emby Server Guide (Translated)](https://wiki-freeembyguide-eu-org.translate.goog/docs/use/yamby/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl&_x_tr_pto=wapp){:target="_blank"}.
+
+**Make sure HTTPS is selected.**
+
 ---  
