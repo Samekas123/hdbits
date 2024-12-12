@@ -62,21 +62,23 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 ---
 
 ### 📺 Apple TV
-- **SenPlayer** - [Free/Fastest Search](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Video Tutorial Apple TV 4K](https://youtu.be/js9DkFN_85s){:target="_blank"}
+- **SenPlayer** - [Free/Fast Search](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/MeMP1TSyvHY){:target="_blank"}
+- **HamHub** - [Free/Fast Search](https://apps.apple.com/us/app/hamhub-%E4%BD%A0%E7%9A%84%E7%A7%81%E4%BA%BA%E4%BA%91%E5%BD%B1%E4%B8%93%E5%AE%B6/id6458691598){:target="_blank"}  
+- **Infuse** - [Paid/Best UI](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/Y5AS3JTVH1w) | [Video Tutorial Pin/Unpin](https://youtube.com/shorts/-PbudVtaiYw?feature=share){:target="_blank"}
 - **Conflux** - [Free](https://apps.apple.com/us/app/conflux-video-player/id6450330892){:target="_blank"} 
-- **Infuse** - [Paid](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Video Tutorial Apple TV 4K](https://youtu.be/m_a6ZP03bOY){:target="_blank"} | [Video Tutorial Pin/Unpin](https://youtube.com/shorts/-PbudVtaiYw?feature=share){:target="_blank"} 
 ``` py
 Set Library Mode to OFF
 ``` 
-- **VidHub** - [Paid](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164){:target="_blank"} 
+- **VidHub** - [Paid](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164){:target="_blank"}
 
 
 ---
 
 ### 📱 iOS (iPhone/iPad)
-- **SenPlayer** - [Free/Fastest Search](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/MeMP1TSyvHY){:target="_blank"}
+- **SenPlayer** - [Free/Fast Search](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/MeMP1TSyvHY){:target="_blank"}
+- **HamHub** - [Free/Fast Search](https://apps.apple.com/us/app/hamhub-%E4%BD%A0%E7%9A%84%E7%A7%81%E4%BA%BA%E4%BA%91%E5%BD%B1%E4%B8%93%E5%AE%B6/id6458691598){:target="_blank"}  
+- **Infuse** - [Paid/Best UI](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/Y5AS3JTVH1w) | [Video Tutorial Pin/Unpin](https://youtube.com/shorts/-PbudVtaiYw?feature=share){:target="_blank"}
 - **Conflux** - [Free](https://apps.apple.com/us/app/conflux-video-player/id6450330892){:target="_blank"} 
-- **Infuse** - [Paid](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/Y5AS3JTVH1w){:target="_blank"} | [Video Tutorial Pin/Unpin](https://youtube.com/shorts/-PbudVtaiYw?feature=share){:target="_blank"}
 ``` py
 Set Library Mode to OFF
 ``` 
@@ -89,12 +91,14 @@ Set Library Mode to OFF
 !!! Note
     **IMPORTANT: To avoid device limitations, please sideload the app using the guide below!**
 
-- **Sideload Guide:** [How to Sideload an APK](https://www.digitaltrends.com/mobile/how-to-sideload-an-apk/){:target="_blank"}
-- **App APK**  
-  - App APK (short URL): [t.ly/sb5uT](https://t.ly/sb5uT){:target="_blank"}
-  - [tinyurl.com/mrxcsy2p](https://tinyurl.com/mrxcsy2p){:target="_blank"}
-  - [tinyurl.com/337yzp6f](https://tinyurl.com/337yzp6f){:target="_blank"}
-  - [tinyurl.com/4sup697j](https://tinyurl.com/4sup697j){:target="_blank"}
+**Sideload Guide:** [How to Sideload an APK](https://www.digitaltrends.com/mobile/how-to-sideload-an-apk/){:target="_blank"}
+
+**App APK Mirrors:**  
+
+- [bit.ly/3VD9Uue](https://bit.ly/3VD9Uue){:target="_blank"}  
+- [bit.ly/3BnJq98](https://bit.ly/3BnJq98){:target="_blank"}    
+- [bit.ly/3VBaKaL](https://bit.ly/3VBaKaL){:target="_blank"}
+  
 
 Select Skip at the bottom of the screen.
 
@@ -126,22 +130,19 @@ Enter your username manually.
 1. Settings -> System -> About -> Android TV OS build -> Press it 10-15 times.
 2. Settings -> Settings -> Privacy -> Security & Restrictions -> Allow Apps from Unknown Sources.
 3. Download the app “Downloader by AFTVnews”.
-4. Open "Downloader by AFTVnews" and insert the Code: **947240**.
+4. Open "Downloader by AFTVnews" and insert the Code: **785412**.
 5. Follow the prompts.
 
->**Downloader by AFTVnews Code:** 947240
+>**Downloader by AFTVnews Code:** 785412
 
 ---
 
 Alternative Method: Manual APK Download/Install
 
-App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q){:target="_blank"}
+- [bit.ly/3BsZkPr](https://bit.ly/3BsZkPr){:target="_blank"}
+- [bit.ly/3VAAzrg](https://bit.ly/3VAAzrg){:target="_blank"}
+- [bit.ly/3OSi1ix](https://bit.ly/3OSi1ix){:target="_blank"}
 
-Mirror 1: [tinyurl.com/5fpfw7bv](https://tinyurl.com/5fpfw7bv){:target="_blank"}
-
-Mirror 2: [tinyurl.com/3nd4hf5n](https://tinyurl.com/3nd4hf5n){:target="_blank"}
-
-Mirror 3: [tinyurl.com/3nd4hf5n](https://tinyurl.com/3yjyvxve){:target="_blank"}
 
 ---
 
@@ -174,17 +175,17 @@ Other settings, such as **"Allow Dolby TrueHD Pass-thru,"** **"Allow DTS Pass-th
 
 **Sideload Guide:** [XDA Developers Sideload Guide](https://www.xda-developers.com/how-sideload-apps-amazon-fire-tv/){:target="_blank"} or look above at **Android TV / Nvidia Shield**
 
-**Downloader by AFTVnews Code:** 947240
+**Downloader by AFTVnews Code:** 785412
 
 ---
 
-**Manual download app apk:**  
+**Alternative Method: Manual APK Download/Install**  
 
-App APK (short URL): [https://t.ly/2sP7q](https://t.ly/2sP7q){:target="_blank"}
+- [bit.ly/3BsZkPr](https://bit.ly/3BsZkPr){:target="_blank"}
+- [bit.ly/3VAAzrg](https://bit.ly/3VAAzrg){:target="_blank"}
+- [bit.ly/3OSi1ix](https://bit.ly/3OSi1ix){:target="_blank"}
 
-[Mirror 1](https://tinyurl.com/5y869n2c){:target="_blank"}
-
-[Mirror 2](https://tinyurl.com/mry287f5){:target="_blank"}
+---
 
 1. Select Skip at the bottom of the screen.
 
