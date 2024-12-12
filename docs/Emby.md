@@ -212,7 +212,7 @@ Other settings, such as **"Allow Dolby TrueHD Pass-thru,"** **"Allow DTS Pass-th
 
 ### 🍏 macOS
 
-- **Recommended Apps:** Use **SenPlayer**, **Infuse** or **Conflux** for optimal streaming.
+- **Recommended Apps:** Use **HamHub**, **Infuse** or **Conflux** for optimal streaming.
 - **Alternative:** You can also use the **Web Player** by clicking on the server URL sent to your email. No installation required!
 - **IMPORTANT:** Please **do not use Emby Theater** due to server license limits, which may restrict access.
 
