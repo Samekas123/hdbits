@@ -65,10 +65,10 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 - **SenPlayer** - [Free/Fast Search](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/MeMP1TSyvHY){:target="_blank"}
 - **HamHub** - [Free/Fast Search](https://apps.apple.com/us/app/hamhub-%E4%BD%A0%E7%9A%84%E7%A7%81%E4%BA%BA%E4%BA%91%E5%BD%B1%E4%B8%93%E5%AE%B6/id6458691598){:target="_blank"}  
 - **Infuse** - [Paid/Best UI](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/Y5AS3JTVH1w) | [Video Tutorial Pin/Unpin](https://youtube.com/shorts/-PbudVtaiYw?feature=share){:target="_blank"}
-- **Conflux** - [Free](https://apps.apple.com/us/app/conflux-video-player/id6450330892){:target="_blank"} 
 ``` py
 Set Library Mode to OFF
 ``` 
+- **Conflux** - [Free](https://apps.apple.com/us/app/conflux-video-player/id6450330892){:target="_blank"} 
 - **VidHub** - [Paid](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164){:target="_blank"}
 
 
@@ -78,10 +78,10 @@ Set Library Mode to OFF
 - **SenPlayer** - [Free/Fast Search](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/MeMP1TSyvHY){:target="_blank"}
 - **HamHub** - [Free/Fast Search](https://apps.apple.com/us/app/hamhub-%E4%BD%A0%E7%9A%84%E7%A7%81%E4%BA%BA%E4%BA%91%E5%BD%B1%E4%B8%93%E5%AE%B6/id6458691598){:target="_blank"}  
 - **Infuse** - [Paid/Best UI](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/Y5AS3JTVH1w) | [Video Tutorial Pin/Unpin](https://youtube.com/shorts/-PbudVtaiYw?feature=share){:target="_blank"}
-- **Conflux** - [Free](https://apps.apple.com/us/app/conflux-video-player/id6450330892){:target="_blank"} 
 ``` py
 Set Library Mode to OFF
 ``` 
+- **Conflux** - [Free](https://apps.apple.com/us/app/conflux-video-player/id6450330892){:target="_blank"} 
 - **VidHub** - [Paid](https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164){:target="_blank"}
 
 ---
@@ -212,7 +212,7 @@ Other settings, such as **"Allow Dolby TrueHD Pass-thru,"** **"Allow DTS Pass-th
 
 ### 🍏 macOS
 
-- **Recommended Apps:** Use **HamHub**, **Infuse** or **Conflux** for optimal streaming.
+- **Recommended Apps:** Use **HamHub**, **Infuse (Library mode off)** or **Conflux** for optimal streaming.
 - **Alternative:** You can also use the **Web Player** by clicking on the server URL sent to your email. No installation required!
 - **IMPORTANT:** Please **do not use Emby Theater** due to server license limits, which may restrict access.
 
