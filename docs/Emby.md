@@ -130,18 +130,16 @@ Enter your username manually.
 1. Settings -> System -> About -> Android TV OS build -> Press it 10-15 times.
 2. Settings -> Settings -> Privacy -> Security & Restrictions -> Allow Apps from Unknown Sources.
 3. Download the app “Downloader by AFTVnews”.
-4. Open "Downloader by AFTVnews" and insert the Code: **785412**.
+4. Open "Downloader by AFTVnews" and insert the Code: **904046**.
 5. Follow the prompts.
 
->**Downloader by AFTVnews Code:** 785412
+>**Downloader by AFTVnews Code:** 904046
 
 ---
 
 Alternative Method: Manual APK Download/Install
 
-- [bit.ly/3BsZkPr](https://bit.ly/3BsZkPr){:target="_blank"}
-- [bit.ly/3VAAzrg](https://bit.ly/3VAAzrg){:target="_blank"}
-- [bit.ly/3OSi1ix](https://bit.ly/3OSi1ix){:target="_blank"}
+- [bit.ly/bitsemby](https://bit.ly/bitsemby){:target="_blank"}
 
 
 ---
@@ -175,15 +173,13 @@ Other settings, such as **"Allow Dolby TrueHD Pass-thru,"** **"Allow DTS Pass-th
 
 **Sideload Guide:** [XDA Developers Sideload Guide](https://www.xda-developers.com/how-sideload-apps-amazon-fire-tv/){:target="_blank"} or look above at **Android TV / Nvidia Shield**
 
-**Downloader by AFTVnews Code:** 785412
+**Downloader by AFTVnews Code:** 904046
 
 ---
 
 **Alternative Method: Manual APK Download/Install**  
 
-- [bit.ly/3BsZkPr](https://bit.ly/3BsZkPr){:target="_blank"}
-- [bit.ly/3VAAzrg](https://bit.ly/3VAAzrg){:target="_blank"}
-- [bit.ly/3OSi1ix](https://bit.ly/3OSi1ix){:target="_blank"}
+- [bit.ly/bitsemby](https://bit.ly/bitsemby){:target="_blank"}
 
 ---
 
