@@ -62,9 +62,9 @@ Emby has a **server-side limit** for Emby Premiere users, allowing a maximum of 
 ---
 
 ### 📺 Apple TV
-- **SenPlayer** - [Free/Fast Search](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/MeMP1TSyvHY){:target="_blank"}
+- **SenPlayer** - [Free/Fast Search](https://apps.apple.com/us/app/senplayer-hdr-media-player/id6443975850){:target="_blank"} | [Video Tutorial ATV 4K](https://youtu.be/js9DkFN_85s){:target="_blank"}
 - **HamHub** - [Free/Fast Search](https://apps.apple.com/us/app/hamhub-%E4%BD%A0%E7%9A%84%E7%A7%81%E4%BA%BA%E4%BA%91%E5%BD%B1%E4%B8%93%E5%AE%B6/id6458691598){:target="_blank"}  
-- **Infuse** - [Paid/Best UI](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Video Tutorial iPhone/iPad](https://youtu.be/Y5AS3JTVH1w) | [Video Tutorial Pin/Unpin](https://youtube.com/shorts/-PbudVtaiYw?feature=share){:target="_blank"}
+- **Infuse** - [Paid/Best UI](https://apps.apple.com/us/app/infuse-video-player/id1136220934){:target="_blank"} | [Video Tutorial ATV 4K](https://youtu.be/m_a6ZP03bOY) | [Video Tutorial Pin/Unpin](https://youtube.com/shorts/-PbudVtaiYw?feature=share){:target="_blank"}
 ``` py
 Set Library Mode to OFF
 ``` 
